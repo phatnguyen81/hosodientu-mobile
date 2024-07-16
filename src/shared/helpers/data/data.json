@@ -1,0 +1,30 @@
+{
+  "main": {
+    "splash": "Foodybite",
+    "signIn": {
+      "title": "Foodybite",
+      "email": "Email",
+      "password": "Password",
+      "forgot": "Forgot Password",
+      "login": "Login",
+      "create": "Create New Account"
+    },
+    "forgotPassword": {
+      "header": "Forgot Password",
+      "title": "Enter your email and will send you instructions on how to reset it",
+      "email": "Email",
+      "send": "Send"
+    },
+    "register": {
+      "name": "Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Password",
+      "forgot": "Forgot Password",
+      "register": "Register",
+      "login": "Login",
+      "create": "Create New Account",
+      "footer": "Already have an account?"
+    }
+  }
+}

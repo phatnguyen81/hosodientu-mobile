@@ -1,0 +1,116 @@
+{
+  "main": {
+    "splash": {
+      "title": "Foodybite",
+      "signup": "ĐĂNG KÝ",
+      "signin": "ĐĂNG NHẬP"
+    },
+    "signIn": {
+      "email": "Email",
+      "password": "Mật khẩu",
+      "forgot": "Quên mật khẩu",
+      "login": "Đăng nhập",
+      "create": "Chưa có tài khoản?",
+      "signup": " Đăng ký ngay"
+    },
+    "forgotPassword": {
+      "title": "Nhập email để đặt lại mật khẩu",
+      "email": "Email",
+      "send": "Đặt lại mật khẩu",
+      "create": "Đã có tài khoản?",
+      "signin": " Đăng nhập ngay"
+    },
+    "signUp": {
+      "name": "Họ và tên",
+      "code": "Mã Y Tế",
+      "phone": "Phone",
+      "address": "Địa chỉ",
+      "email": "Email",
+      "reEmail": "Nhập lại Email",
+      "year": "Năm sinh",
+      "qr": "Quét  mã QR",
+      "register": "Đăng ký",
+      "create": "Đã có tài khoản?",
+      "signup": " Đăng nhập ngay"
+    },
+    "examinationPackage": {
+      "listExaminationPackage": [
+        {
+          "name": "Gói Khám Toàn Diện Người Lớn",
+          "link": "https://goldenhealthcarevn.com/personal_package/goi-kham-toan-dien-nguoi-lon/"
+        },
+        {
+          "name": "Gói Tầm Soát Ung Thư",
+          "link": "https://goldenhealthcarevn.com/personal_package/goi-tam-soat-ung-thu/"
+        },
+        {
+          "name": "Gói Khám Tiền Hôn Nhân",
+          "link": "https://goldenhealthcarevn.com/personal_package/goi-kham-tien-hon-nhan/"
+        },
+        {
+          "name": "Gói Khám Tầm Soát Bệnh Gan",
+          "link": "https://goldenhealthcarevn.com/personal_package/goi-kham-tam-soat-be%cc%a3nh-gan/"
+        },
+        {
+          "name": "Gói Khám Tầm Soát Bệnh Phụ Khoa Cho Nữ",
+          "link": "https://goldenhealthcarevn.com/personal_package/goi-kham-tam-soat-be%cc%a3nh-phu%cc%a3-khoa-cho-nu%cc%83/"
+        },
+        {
+          "name": "Gói Khám Toàn Diện Trẻ Em",
+          "link": "https://goldenhealthcarevn.com/personal_package/goi-kham-toan-dien-tre-em/"
+        },
+        {
+          "name": "Gói Khám Tầm Soát Biến Chứng Bệnh Tiểu Đường",
+          "link": "https://goldenhealthcarevn.com/personal_package/goi-kham-tam-soat-bien-chung-tie%cc%89u-duong/"
+        },
+        {
+          "name": "Gói Khám Tầm Soát Tiền Tiểu Đường",
+          "link": "https://goldenhealthcarevn.com/personal_package/goi-kham-tam-soat-tie%cc%89u-duong/"
+        },
+        {
+          "name": "Gói Khám Tầm Soát Tiền Tim Mạch",
+          "link": "https://goldenhealthcarevn.com/personal_package/goi-kham-tam-soat-tim-ma%cc%a3ch/"
+        }
+      ],
+      "header": "DANH SÁCH GÓI KHÁM"
+    },
+    "examinationSchedule": {
+      "header": "CHỌN KHOA"
+    },
+    "account": {
+      "title": "Cá nhân",
+      "actionText": {
+        "bill":"Hồ sơ điện tử",
+        "calendar": "Lịch khám",
+        "advisory": "Tư vấn",
+        "contact": "Liên hệ",
+        "changeAvt": "Đổi ảnh đại diện",
+        "search": "Tra cứu kết quả nhanh"
+      },
+      "logout": "Đăng xuất",
+      "setting": "Thông tin tài khoản và cài đặt",
+      "version": "Hóa đơn điện tử version 1.0.1"
+    },
+    "bill": {
+      "header":"HỒ SƠ ĐIỆN TỬ",
+      "textItem1": "Khám bệnh",
+      "textItem2": "Cận lâm sàng",
+      "textItem3": "Hồ sơ khám định kỳ"
+    },
+    "contact": {
+      "titleMarker": "PHÒNG KHÁM ĐA KHOA QUỐC TẾ GOLDEN HEALTHCARE",
+      "descriptionMarker": "Số 37 Hoàng Hoa Thám, P. 13, Q.Tân Bình, Tp.HCM",
+      "textPosition": "Địa điểm cách bạn",
+      "textTitle": "PHÒNG KHÁM ĐA KHOA QUỐC TẾ\nGOLDEN HEALTHCARE",
+      "address": "Số 37 Hoàng Hoa Thám, P. 13, Q.Tân Bình, Tp.HCM",
+      "time": "T2 - CN, 7:30AM",
+      "textContact": "LIÊN HỆ",
+      "textRouter": "CHỈ ĐƯỜNG"
+    },
+    "notification": {
+      "title": "Thông báo",
+      "des": "Bật thông báo để nhận tin tức mới nhất từ GoldenHealthCare",
+      "setting": "Cài đặt"
+    }
+  }
+}

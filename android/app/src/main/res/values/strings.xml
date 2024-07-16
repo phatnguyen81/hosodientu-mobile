@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Golden Healthcare</string>
+    <!-- USING 1 IN 2 -->    
+    <!-- PRODUCTION -->    
+    <string moduleConfig="true" name="CodePushDeploymentKey">2hFR7ElhJ3l68nFXALHXpJ1tXdsTCfbD0HslI</string>
+    <!-- TEST -->
+    <!-- <string moduleConfig="true" name="CodePushDeploymentKey">3wPd98TABTbwExLR43DsXoDJto5bs9dwBhogC</string> -->
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+<string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>

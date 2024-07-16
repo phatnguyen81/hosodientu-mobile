@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194538843439",
+    "firebase_url": "https://hsdt-10001.firebaseio.com",
+    "project_id": "hsdt-10001",
+    "storage_bucket": "hsdt-10001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194538843439:android:eb2929d99310ffd54ec5da",
+        "android_client_info": {
+          "package_name": "com.hosodientu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194538843439-bc3mls67og6b87fqo2cf39ud73prl3mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6YXQvMG8vMGJ-TgbR8Yn4izMN_1V0z7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194538843439-bc3mls67og6b87fqo2cf39ud73prl3mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

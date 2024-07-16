@@ -1,0 +1,430 @@
+{
+    "iphone": [
+        {
+            "name": "iPhone XR",
+            "pixelSize": {
+                "width": 828,
+                "height": 1792
+            },
+            "viewport": {
+                "width": 414,
+                "height": 896
+            }
+        },
+        {
+            "name": "iPhone XS",
+            "pixelSize": {
+                "width": 1125,
+                "height": 2436
+            },
+            "viewport": {
+                "width": 375,
+                "height": 812
+            }
+        },
+        {
+            "name": "iPhone XS Max",
+            "pixelSize": {
+                "width": 1242,
+                "height": 2688
+            },
+            "viewport": {
+                "width": 414,
+                "height": 896
+            }
+        },
+        {
+            "name": "iPhone X",
+            "pixelSize": {
+                "width": 1125,
+                "height": 2436
+            },
+            "viewport": {
+                "width": 375,
+                "height": 812
+            }
+        },
+        {
+            "name": "iPhone 8 Plus",
+            "pixelSize": {
+                "width": 1080,
+                "height": 1920
+            },
+            "viewport": {
+                "width": 414,
+                "height": 736
+            }
+        },
+        {
+            "name": "iPhone 8",
+            "pixelSize": {
+                "width": 750,
+                "height": 1334
+            },
+            "viewport": {
+                "width": 375,
+                "height": 667
+            }
+        },
+        {
+            "name": "iPhone 7 Plus",
+            "pixelSize": {
+                "width": 1080,
+                "height": 1920
+            },
+            "viewport": {
+                "width": 414,
+                "height": 736
+            }
+        },
+        {
+            "name": "iPhone 7",
+            "pixelSize": {
+                "width": 750,
+                "height": 1334
+            },
+            "viewport": {
+                "width": 375,
+                "height": 667
+            }
+        },
+        {
+            "name": "iPhone 6 Plus/6S Plus",
+            "pixelSize": {
+                "width": 1080,
+                "height": 1920
+            },
+            "viewport": {
+                "width": 414,
+                "height": 736
+            }
+        },
+        {
+            "name": "iPhone 6/6S",
+            "pixelSize": {
+                "width": 750,
+                "height": 1334
+            },
+            "viewport": {
+                "width": 375,
+                "height": 667
+            }
+        },
+        {
+            "name": "iPhone 5",
+            "pixelSize": {
+                "width": 640,
+                "height": 1136
+            },
+            "viewport": {
+                "width": 320,
+                "height": 568
+            }
+        }
+    ],
+    "ipad": [
+        {
+            "name": "iPad Pro",
+            "pixelSize": {
+                "width": 2048,
+                "height": 2732
+            },
+            "viewport": {
+                "width": 1024,
+                "height": 1366
+            }
+        },
+        {
+            "name": "iPad Third & Fourth Generation",
+            "pixelSize": {
+                "width": 1536,
+                "height": 2048
+            },
+            "viewport": {
+                "width": 768,
+                "height": 1024
+            }
+        },
+        {
+            "name": "iPad Air 1 & 2",
+            "pixelSize": {
+                "width": 1536,
+                "height": 2048
+            },
+            "viewport": {
+                "width": 768,
+                "height": 1024
+            }
+        },
+        {
+            "name": "iPad Mini 2 & 3",
+            "pixelSize": {
+                "width": 1536,
+                "height": 2048
+            },
+            "viewport": {
+                "width": 768,
+                "height": 1024
+            }
+        },
+        {
+            "name": "iPad Mini",
+            "pixelSize": {
+                "width": 768,
+                "height": 1024
+            },
+            "viewport": {
+                "width": 768,
+                "height": 1024
+            }
+        }
+    ],
+    "ipod": [
+        {
+            "name": "iPod Touch",
+            "pixelSize": {
+                "width": 640,
+                "height": 1136
+            },
+            "viewport": {
+                "width": 320,
+                "height": 568
+            }
+        }
+    ],
+    "android": [
+        {
+            "name": "Nexus 6P",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2560
+            },
+            "viewport": {
+                "width": 412,
+                "height": 732
+            }
+        },
+        {
+            "name": "Nexus 5X",
+            "pixelSize": {
+                "width": 1080,
+                "height": 1920
+            },
+            "viewport": {
+                "width": 412,
+                "height": 732
+            }
+        },
+        {
+            "name": "Google Pixel 3 XL",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2960
+            },
+            "viewport": {
+                "width": 412,
+                "height": 847
+            }
+        },
+        {
+            "name": "Google Pixel 3",
+            "pixelSize": {
+                "width": 1080,
+                "height": 2160
+            },
+            "viewport": {
+                "width": 412,
+                "height": 824
+            }
+        },
+        {
+            "name": "Google Pixel 2 XL",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2560
+            },
+            "viewport": {
+                "width": 412,
+                "height": 732
+            }
+        },
+        {
+            "name": "Google Pixel XL",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2560
+            },
+            "viewport": {
+                "width": 412,
+                "height": 732
+            }
+        },
+        {
+            "name": "Google Pixel",
+            "pixelSize": {
+                "width": 1080,
+                "height": 1920
+            },
+            "viewport": {
+                "width": 412,
+                "height": 732
+            }
+        },
+        {
+            "name": "Samsung Galaxy Note 9",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2960
+            },
+            "viewport": {
+                "width": 360,
+                "height": 740
+            }
+        },
+        {
+            "name": "Samsung Galaxy Note 5",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2560
+            },
+            "viewport": {
+                "width": 480,
+                "height": 853
+            }
+        },
+        {
+            "name": "LG G5",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2560
+            },
+            "viewport": {
+                "width": 480,
+                "height": 853
+            }
+        },
+        {
+            "name": "One Plus 3",
+            "pixelSize": {
+                "width": 1080,
+                "height": 1920
+            },
+            "viewport": {
+                "width": 480,
+                "height": 853
+            }
+        },
+        {
+            "name": "Samsung Galaxy S9+",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2960
+            },
+            "viewport": {
+                "width": 360,
+                "height": 740
+            }
+        },
+        {
+            "name": "Samsung Galaxy S9",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2960
+            },
+            "viewport": {
+                "width": 360,
+                "height": 740
+            }
+        },
+        {
+            "name": "Samsung Galaxy S8+",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2960
+            },
+            "viewport": {
+                "width": 360,
+                "height": 740
+            }
+        },
+        {
+            "name": "Samsung Galaxy S8",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2960
+            },
+            "viewport": {
+                "width": 360,
+                "height": 740
+            }
+        },
+        {
+            "name": "Samsung Galaxy S7 Edge",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2560
+            },
+            "viewport": {
+                "width": 360,
+                "height": 640
+            }
+        },
+        {
+            "name": "Samsung Galaxy S7",
+            "pixelSize": {
+                "width": 1440,
+                "height": 2560
+            },
+            "viewport": {
+                "width": 360,
+                "height": 640
+            }
+        }
+    ],
+    "table": [
+        {
+            "name": "Nexus 9",
+            "pixelSize": {
+                "width": 1536,
+                "height": 2048
+            },
+            "viewport": {
+                "width": 768,
+                "height": 1024
+            }
+        },
+        {
+            "name": "Nexus 7 (2013)",
+            "pixelSize": {
+                "width": 1200,
+                "height": 1920
+            },
+            "viewport": {
+                "width": 600,
+                "height": 960
+            }
+        },
+        {
+            "name": "Samsung Galaxy Tab 10",
+            "pixelSize": {
+                "width": 800,
+                "height": 1280
+            },
+            "viewport": {
+                "width": 800,
+                "height": 1280
+            }
+        },
+        {
+            "name": "Chromebook Pixel",
+            "pixelSize": {
+                "width": 2560,
+                "height": 1700
+            },
+            "viewport": {
+                "width": 1280,
+                "height": 850
+            }
+        }
+    ]
+}
